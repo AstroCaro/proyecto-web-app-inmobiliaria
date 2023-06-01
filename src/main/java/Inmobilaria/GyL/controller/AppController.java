@@ -33,6 +33,6 @@ public class AppController {
             model.put("properties",properties);
         }
         model.put("title", "MrHouse | Inicio");
-        return "index.html";
+        return "HI there";
     }
 }
